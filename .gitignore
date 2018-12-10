@@ -1,3 +1,5 @@
 test-files/
 IMDB/
 node_modules/
+.env
+settings.json

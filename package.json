@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "dotenv": "^6.2.0",
     "knex": "^0.15.2",
     "pg": "^7.7.1"
   },
